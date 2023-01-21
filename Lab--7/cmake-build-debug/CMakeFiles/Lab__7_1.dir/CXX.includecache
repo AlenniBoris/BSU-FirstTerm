@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after first term/StudentFirstTerm.cpp
+StudentFirstTerm.h
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after first term/StudentFirstTerm.h
+
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after first term/StudentFirstTerm.h
+../Student/Student.h
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student/Student.h
+
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after second term/StudentSecondTerm.cpp
+StudentSecondTerm.h
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after second term/StudentSecondTerm.h
+
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after second term/StudentSecondTerm.h
+../Student after first term/StudentFirstTerm.h
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after first term/StudentFirstTerm.h
+
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student/Student.cpp
+Student.h
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student/Student.h
+../Student after first term/StudentFirstTerm.h
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after first term/StudentFirstTerm.h
+../Student after second term/StudentSecondTerm.h
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student after second term/StudentSecondTerm.h
+
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student/Student.h
+iostream
+-
+cassert
+-
+vector
+-
+
+C:/Proga for BSU/Lab--7.1/main.cpp
+Classes and methods/Student/Student.h
+C:/Proga for BSU/Lab--7.1/Classes and methods/Student/Student.h
+

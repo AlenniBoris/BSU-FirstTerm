@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Proga for BSU/Lab--4/Tasks/task1.h
+
+C:/Proga for BSU/Lab--4/Tasks/task2.h
+
+C:/Proga for BSU/Lab--4/main.cpp
+iostream
+-
+Tasks/task1.h
+C:/Proga for BSU/Lab--4/Tasks/task1.h
+Tasks/task2.h
+C:/Proga for BSU/Lab--4/Tasks/task2.h
+
